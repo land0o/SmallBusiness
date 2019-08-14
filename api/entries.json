@@ -1,0 +1,62 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Bruce Wayne",
+      "departmentId": 1,
+      "computerId": 1
+    },
+    {
+      "id": 2,
+      "name": "Dick Grayson",
+      "departmentId": 2,
+      "computerId": 2
+    },
+    {
+      "id": 3,
+      "name": "Tim Drake",
+      "departmentId": 2,
+      "computerId": 3
+    },
+    {
+      "id": 4,
+      "name": "Barbara Gordon",
+      "departmentId": 2,
+      "computerId": 3
+    },
+    {
+      "id": 4,
+      "name": "Alfred Pennyworth",
+      "departmentId": 3,
+      "computerId": 1
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "department": "Founder/CEO"
+    },
+    {
+      "id": 2,
+      "department": "Sidekick/Assistant"
+    },
+    {
+      "id": 3,
+      "department": "Butler"
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "computer": "Bat Computer"
+    },
+    {
+      "id": 2,
+      "computer": "OG Robin Computer"
+    },
+    {
+      "id": 3,
+      "computer": "Robin Computer"
+    }
+  ]
+}

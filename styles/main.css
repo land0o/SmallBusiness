@@ -1,0 +1,22 @@
+body {
+  background-color: #f5e942;
+  background-image: url(/img/Batman_Family.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.employee {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  border: 4px solid yellow;
+  background: lightslategray;
+  width: 25%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 5px 5px 5px;
+  opacity: 0.8;
+  margin-top: 35px;
+  justify-content: space-evenly;
+  box-shadow: slategrey;
+}
